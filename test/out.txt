@@ -1,0 +1,12 @@
+RA 198/2014 Aleksandar Jeremic
+file	sum
+video-0.avi	-24
+video-1.avi	-18
+video-2.avi	-3
+video-3.avi	-57
+video-4.avi	-35
+video-5.avi	15
+video-6.avi	-68
+video-7.avi	10
+video-8.avi	-8
+video-9.avi	25
